@@ -3,19 +3,13 @@
 A production-grade notification system built with **message queues**, **priority-based delivery**, and **real-time WebSocket updates**. Designed to handle high-volume notifications with intelligent batching and user preferences.
 
 ## 🛠️ Tech Stack
-
-### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Email & Scheduling
 ![SendGrid](https://img.shields.io/badge/SendGrid-3368FF?style=for-the-badge&logo=sendgrid&logoColor=white)
 ![Node-Cron](https://img.shields.io/badge/Node--Cron-2C8EBB?style=for-the-badge&logo=npm&logoColor=white)
 
