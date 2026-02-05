@@ -1,0 +1,22 @@
+# Environment variables
+.env
+**/.env
+
+# Backend sensitive JSON files
+backend/*.json
+backend/**/serviceAccount*.json
+backend/**/config*.json
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+venv/
+.env/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
